@@ -1,15 +1,20 @@
 {
-    "name": "svg-generator",
+    "name": "svg-logo",
     "version": "1.0.0",
-    "description": "",
+    "description": "Command line tool to generate an svg file",
     "main": "index.js",
     "scripts": {
       "test": "jest"
     },
+    "private": true,
+    "keywords": [],
     "author": "",
-    "license": "ISC",
+    "license": "UNLICENSED",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
     "devDependencies": {
-      "jest": "^24.9.0"
-    }
+        "jest": "29.5.0"
+      }
   }
   
