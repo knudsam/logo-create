@@ -4,17 +4,16 @@
     "description": "Command line tool to generate an svg file",
     "main": "index.js",
     "scripts": {
-      "test": "jest"
+        "test": "jest"
     },
     "private": true,
     "keywords": [],
     "author": "",
     "license": "UNLICENSED",
     "dependencies": {
-      "inquirer": "^8.2.4"
+        "inquirer": "^8.2.4"
     },
     "devDependencies": {
         "jest": "29.5.0"
-      }
-  }
-  
+    }
+}
